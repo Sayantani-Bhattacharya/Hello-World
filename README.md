@@ -1,3 +1,3 @@
 # Hello-World
 My first Repository
-A thinker,observer,technophile and forever learner.
+I am a thinker,observer,technophile and forever learner.
